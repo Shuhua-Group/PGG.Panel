@@ -2,8 +2,8 @@
 
 i=$1
 
-prefix='POP_zyHan_HXDL'
 vcf="/mnt/share9/gaoyang/20240807.Saile/14.POP_zyHan_HXDL/VQSR/190.variant.quality.score.recal/POP2099_HXDL_zyHan.Saile.VQSR.variants.vcf.gz"
+prefix='POP_zyHan_HXDL'
 qc='VQSR' #qc=filtered
 
 
